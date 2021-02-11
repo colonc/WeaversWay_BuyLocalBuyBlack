@@ -1,0 +1,10 @@
+Cleaning Process for Minority Based Businesses in selected states 
+
+Goal: To merge all 6 datasets into one file
+
+Steps Taken:
+- Ensured that all datasets had the same columns, 
+  and columns across all datasets were arranged in 
+  the same order for merge
+- Dropped unnecesary columns 
+- Used the pandas append method to merge the datasets
