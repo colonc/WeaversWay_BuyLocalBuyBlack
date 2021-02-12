@@ -25,5 +25,7 @@ Due to privacy concerns of our client, we have omitted Weavers Way vendor divers
  
  [Click here](https://www.canva.com/design/DAEUwkSssm0/u5TnDGbJ1cwpt9RDE25k9w/view?utm_content=DAEUwkSssm0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) to be directed to our slide deck.
  
+ [Click here](https://youtu.be/0r6_at_rcXg) to view a recording of our presentation.
+ 
  ## Data Dictionary 
 [Click here](https://docs.google.com/spreadsheets/d/1JJfylVZ5yh4v3nD8U0VTURrLHBI3CErSe-cmbgrWV5g/edit#gid=1321902503) to be directed to our data dictionary. 
